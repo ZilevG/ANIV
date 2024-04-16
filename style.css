@@ -1,0 +1,23 @@
+h1
+{color: blue;}
+h2
+{color: red;}
+body
+{
+	background-color: yellow; text-align: center;
+	}
+
+#fond
+{ 
+    width: 800px;
+	margin: 0 auto;
+	background-color: white; font-family: "verdana noire", Georgia, serif;
+	text-align: center;
+	align-content: center;
+a:hover{ text-decoration: none; }
+a:active{ text-decoration: underline; }
+    
+}
+ul li 
+{ list-style-type: none; }
+
